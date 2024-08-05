@@ -10,6 +10,11 @@ Estudante do quarto período de Sistemas de Informação, busco oportunidades pa
   <img alt="python" src="https://img.shields.io/badge/python-132A13?style=for-the-badge&logo=python&logoColor=ffffff"/>
 </div>
 
+<div>
+  <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=clarasenx&theme=merko"/>
+</div>
+
 
 ### Contact
 
