@@ -1,7 +1,7 @@
 ### ✨Hello there✨
 
 ## About me
-Estudante do quinto período de Sistemas de Informação, busco oportunidades para iniciar minha carreira na área de tecnologia e desenvolvimento. Tenho grande interesse em aprimorar meus conhecimentos e habilidades, dedicando-me ao aprendizado contínuo e à prática de novas tecnologias.
+Estudante do sexto período de Sistemas de Informação, trabalho atualmente como estagiária de desenvolvimento na Controladoria Geral do Municipio de Porto Velho.
 
 ### Skills
 <div>
