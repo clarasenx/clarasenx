@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 Sobre mim
-Sou estudante do **6º período de Sistemas de Informação** e atuo como **estagiária de desenvolvimento** na **Controladoria Geral do Município de Porto Velho**. Tenho foco em **desenvolvimento frontend**, buscando criar interfaces funcionais, acessíveis e bem estruturadas.  
+Sou estudante do **7º período de Sistemas de Informação** e atuo como **estagiária de desenvolvimento** na **Controladoria Geral do Município de Porto Velho**. Tenho foco em **desenvolvimento frontend**, buscando criar interfaces funcionais, acessíveis e bem estruturadas.  
 Trabalho principalmente com **React**, **Next.js**, **TypeScript** e **Tailwind CSS**, mas também possuo experiência com **Node.js**, **NestJS**, **Python** e **GraphQL**, o que me permite compreender o fluxo completo entre frontend e backend.  
 Gosto de aprender novas tecnologias, melhorar a qualidade do código e desenvolver soluções que entreguem valor real aos usuários e à equipe de desenvolvimento.
 
